@@ -1,0 +1,7 @@
+{
+  "name": "AngularAndServer",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
